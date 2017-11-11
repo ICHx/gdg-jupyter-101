@@ -1,0 +1,385 @@
+﻿type,StationName,DateTime,aqhi
+General Stations,Central/Western,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Central/Western,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Central/Western,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Central/Western,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Central/Western,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Central/Western,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 17:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 18:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Central/Western,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Central/Western,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Central/Western,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Central/Western,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Eastern,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Eastern,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Eastern,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Eastern,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Eastern,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Eastern,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 17:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 18:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Eastern,"Fri, 10 Nov 2017 23:00:00 +0800",6
+General Stations,Eastern,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Eastern,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Eastern,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Eastern,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 13:00:00 +0800",4
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 16:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 17:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 18:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 19:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 20:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 21:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 22:00:00 +0800",5
+General Stations,Kwun Tong,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Kwun Tong,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 13:00:00 +0800",4
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 16:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 17:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 18:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 19:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 20:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 22:00:00 +0800",5
+General Stations,Sham Shui Po,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Sham Shui Po,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 17:00:00 +0800",7
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 18:00:00 +0800",7
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 22:00:00 +0800",5
+General Stations,Kwai Chung,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Kwai Chung,"Sat, 11 Nov 2017 10:00:00 +0800",5
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 17:00:00 +0800",8
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 18:00:00 +0800",8
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 19:00:00 +0800",7
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Tsuen Wan,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Tsuen Wan,"Sat, 11 Nov 2017 10:00:00 +0800",5
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 17:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 18:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Tseung Kwan O,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 08:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Tseung Kwan O,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Yuen Long,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Yuen Long,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Yuen Long,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Yuen Long,"Fri, 10 Nov 2017 14:00:00 +0800",6
+General Stations,Yuen Long,"Fri, 10 Nov 2017 15:00:00 +0800",7
+General Stations,Yuen Long,"Fri, 10 Nov 2017 16:00:00 +0800",8
+General Stations,Yuen Long,"Fri, 10 Nov 2017 17:00:00 +0800",9
+General Stations,Yuen Long,"Fri, 10 Nov 2017 18:00:00 +0800",10
+General Stations,Yuen Long,"Fri, 10 Nov 2017 19:00:00 +0800",10
+General Stations,Yuen Long,"Fri, 10 Nov 2017 20:00:00 +0800",9
+General Stations,Yuen Long,"Fri, 10 Nov 2017 21:00:00 +0800",8
+General Stations,Yuen Long,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Yuen Long,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Yuen Long,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Yuen Long,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Yuen Long,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Yuen Long,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Yuen Long,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Yuen Long,"Sat, 11 Nov 2017 05:00:00 +0800",3
+General Stations,Yuen Long,"Sat, 11 Nov 2017 06:00:00 +0800",3
+General Stations,Yuen Long,"Sat, 11 Nov 2017 07:00:00 +0800",3
+General Stations,Yuen Long,"Sat, 11 Nov 2017 08:00:00 +0800",3
+General Stations,Yuen Long,"Sat, 11 Nov 2017 09:00:00 +0800",3
+General Stations,Yuen Long,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 15:00:00 +0800",6
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 16:00:00 +0800",8
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 17:00:00 +0800",10
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 18:00:00 +0800",11
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 19:00:00 +0800",11
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 20:00:00 +0800",11
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 21:00:00 +0800",9
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 22:00:00 +0800",7
+General Stations,Tuen Mun,"Fri, 10 Nov 2017 23:00:00 +0800",6
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 02:00:00 +0800",5
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 06:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 07:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 08:00:00 +0800",3
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Tuen Mun,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Tung Chung,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Tung Chung,"Fri, 10 Nov 2017 12:00:00 +0800",4
+General Stations,Tung Chung,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Tung Chung,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Tung Chung,"Fri, 10 Nov 2017 15:00:00 +0800",6
+General Stations,Tung Chung,"Fri, 10 Nov 2017 16:00:00 +0800",7
+General Stations,Tung Chung,"Fri, 10 Nov 2017 17:00:00 +0800",8
+General Stations,Tung Chung,"Fri, 10 Nov 2017 18:00:00 +0800",9
+General Stations,Tung Chung,"Fri, 10 Nov 2017 19:00:00 +0800",9
+General Stations,Tung Chung,"Fri, 10 Nov 2017 20:00:00 +0800",8
+General Stations,Tung Chung,"Fri, 10 Nov 2017 21:00:00 +0800",7
+General Stations,Tung Chung,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Tung Chung,"Fri, 10 Nov 2017 23:00:00 +0800",6
+General Stations,Tung Chung,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tung Chung,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Tung Chung,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Tung Chung,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Tung Chung,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Tung Chung,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Tung Chung,"Sat, 11 Nov 2017 06:00:00 +0800",3
+General Stations,Tung Chung,"Sat, 11 Nov 2017 07:00:00 +0800",3
+General Stations,Tung Chung,"Sat, 11 Nov 2017 08:00:00 +0800",3
+General Stations,Tung Chung,"Sat, 11 Nov 2017 09:00:00 +0800",3
+General Stations,Tung Chung,"Sat, 11 Nov 2017 10:00:00 +0800",3
+General Stations,Tai Po,"Fri, 10 Nov 2017 11:00:00 +0800",5
+General Stations,Tai Po,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Tai Po,"Fri, 10 Nov 2017 13:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 14:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 15:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 16:00:00 +0800",7
+General Stations,Tai Po,"Fri, 10 Nov 2017 17:00:00 +0800",7
+General Stations,Tai Po,"Fri, 10 Nov 2017 18:00:00 +0800",7
+General Stations,Tai Po,"Fri, 10 Nov 2017 19:00:00 +0800",7
+General Stations,Tai Po,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Tai Po,"Fri, 10 Nov 2017 23:00:00 +0800",6
+General Stations,Tai Po,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tai Po,"Sat, 11 Nov 2017 01:00:00 +0800",5
+General Stations,Tai Po,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Tai Po,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Tai Po,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Tai Po,"Sat, 11 Nov 2017 05:00:00 +0800",3
+General Stations,Tai Po,"Sat, 11 Nov 2017 06:00:00 +0800",3
+General Stations,Tai Po,"Sat, 11 Nov 2017 07:00:00 +0800",3
+General Stations,Tai Po,"Sat, 11 Nov 2017 08:00:00 +0800",3
+General Stations,Tai Po,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Tai Po,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Sha Tin,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Sha Tin,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Sha Tin,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Sha Tin,"Fri, 10 Nov 2017 14:00:00 +0800",5
+General Stations,Sha Tin,"Fri, 10 Nov 2017 15:00:00 +0800",5
+General Stations,Sha Tin,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 17:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 18:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Sha Tin,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Sha Tin,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Sha Tin,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 03:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 04:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 05:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 06:00:00 +0800",3
+General Stations,Sha Tin,"Sat, 11 Nov 2017 07:00:00 +0800",3
+General Stations,Sha Tin,"Sat, 11 Nov 2017 08:00:00 +0800",3
+General Stations,Sha Tin,"Sat, 11 Nov 2017 09:00:00 +0800",4
+General Stations,Sha Tin,"Sat, 11 Nov 2017 10:00:00 +0800",4
+General Stations,Tap Mun,"Fri, 10 Nov 2017 11:00:00 +0800",4
+General Stations,Tap Mun,"Fri, 10 Nov 2017 12:00:00 +0800",5
+General Stations,Tap Mun,"Fri, 10 Nov 2017 13:00:00 +0800",5
+General Stations,Tap Mun,"Fri, 10 Nov 2017 14:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 15:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 16:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 17:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 18:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 19:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 20:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 21:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 22:00:00 +0800",6
+General Stations,Tap Mun,"Fri, 10 Nov 2017 23:00:00 +0800",5
+General Stations,Tap Mun,"Sat, 11 Nov 2017 00:00:00 +0800",5
+General Stations,Tap Mun,"Sat, 11 Nov 2017 01:00:00 +0800",4
+General Stations,Tap Mun,"Sat, 11 Nov 2017 02:00:00 +0800",4
+General Stations,Tap Mun,"Sat, 11 Nov 2017 03:00:00 +0800",3
+General Stations,Tap Mun,"Sat, 11 Nov 2017 04:00:00 +0800",3
+General Stations,Tap Mun,"Sat, 11 Nov 2017 05:00:00 +0800",3
+General Stations,Tap Mun,"Sat, 11 Nov 2017 06:00:00 +0800",3
+General Stations,Tap Mun,"Sat, 11 Nov 2017 07:00:00 +0800",2
+General Stations,Tap Mun,"Sat, 11 Nov 2017 08:00:00 +0800",2
+General Stations,Tap Mun,"Sat, 11 Nov 2017 09:00:00 +0800",3
+General Stations,Tap Mun,"Sat, 11 Nov 2017 10:00:00 +0800",3
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 11:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 12:00:00 +0800",5
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 13:00:00 +0800",5
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 14:00:00 +0800",5
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 15:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 16:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 17:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 18:00:00 +0800",7
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 19:00:00 +0800",7
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 20:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 21:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 22:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Fri, 10 Nov 2017 23:00:00 +0800",6
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 00:00:00 +0800",5
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 01:00:00 +0800",5
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 02:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 03:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 04:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 05:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 06:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 07:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 08:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 09:00:00 +0800",4
+Roadside Stations,Causeway Bay,"Sat, 11 Nov 2017 10:00:00 +0800",5
+Roadside Stations,Central,"Fri, 10 Nov 2017 11:00:00 +0800",4
+Roadside Stations,Central,"Fri, 10 Nov 2017 12:00:00 +0800",4
+Roadside Stations,Central,"Fri, 10 Nov 2017 13:00:00 +0800",5
+Roadside Stations,Central,"Fri, 10 Nov 2017 14:00:00 +0800",5
+Roadside Stations,Central,"Fri, 10 Nov 2017 15:00:00 +0800",5
+Roadside Stations,Central,"Fri, 10 Nov 2017 16:00:00 +0800",6
+Roadside Stations,Central,"Fri, 10 Nov 2017 17:00:00 +0800",6
+Roadside Stations,Central,"Fri, 10 Nov 2017 18:00:00 +0800",7
+Roadside Stations,Central,"Fri, 10 Nov 2017 19:00:00 +0800",6
+Roadside Stations,Central,"Fri, 10 Nov 2017 20:00:00 +0800",6
+Roadside Stations,Central,"Fri, 10 Nov 2017 21:00:00 +0800",6
+Roadside Stations,Central,"Fri, 10 Nov 2017 22:00:00 +0800",5
+Roadside Stations,Central,"Fri, 10 Nov 2017 23:00:00 +0800",5
+Roadside Stations,Central,"Sat, 11 Nov 2017 00:00:00 +0800",5
+Roadside Stations,Central,"Sat, 11 Nov 2017 01:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 02:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 03:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 04:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 05:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 06:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 07:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 08:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 09:00:00 +0800",4
+Roadside Stations,Central,"Sat, 11 Nov 2017 10:00:00 +0800",4
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 11:00:00 +0800",5
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 12:00:00 +0800",5
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 13:00:00 +0800",5
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 14:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 15:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 16:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 17:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 18:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 19:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 20:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 21:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 22:00:00 +0800",6
+Roadside Stations,Mong Kok,"Fri, 10 Nov 2017 23:00:00 +0800",5
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 00:00:00 +0800",5
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 01:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 02:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 03:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 04:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 05:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 06:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 07:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 08:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 09:00:00 +0800",4
+Roadside Stations,Mong Kok,"Sat, 11 Nov 2017 10:00:00 +0800",5
